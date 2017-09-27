@@ -2,7 +2,7 @@ package com.example.demo.domain;
 public class PojoPerson {
 	private String name;
 	private int age;
-
+	private int a=1;
 	public String getName() {
 		return name;
 	}
