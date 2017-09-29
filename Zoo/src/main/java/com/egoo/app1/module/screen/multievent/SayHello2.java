@@ -44,6 +44,10 @@ public class SayHello2 {
     public Hello doFrench() {
         return new Hello("French", "Bonjour");
     }
+    /** 法语 */
+    public void doPrintln() {
+       System.out.println("XXX");
+    }
 
     /** 西班牙语 */
     public Hello doSpanish() {
