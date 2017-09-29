@@ -46,7 +46,7 @@ public class SayHello2 {
     }
     /** 法语 */
     public void doPrintln() {
-       System.out.println("XXX");
+       System.out.println("AAAA");
     }
 
     /** 西班牙语 */
